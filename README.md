@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with **Understanding how to an automation framework, Real-world examples of test scenarios, Selenium WebDriver project structure**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Deepika-146/Java-Practice](https://github.com/Deepika-146/Java-Practice)
+- 👨‍💻 All of my projects are available at [https://github.com/Deepika-146/Java-Practice](https://github.com/Deepika-146/Java-Practice)(https://github.com/Deepika-146/Java-Selenium)
 
 - 💬 Ask me about **Manual Testing Life Cycle (STLC, SDLC, Defect Cycle), Writing simple automation test scripts, OOPs concepts in Java, Functional & Regression Testing Basics, Test case writing strategy**
 
