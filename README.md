@@ -1,4 +1,4 @@
-## Hi there 👋
+
 <h1 align="center">Hi 👋, I'm Deepika Palanisamy</h1>
 <h3 align="center">Aspiring Software Tester | Learning Manual & Automation Testing | Java Enthusiast</h3>
 
@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Manual Testing, Selenium WebDriver + Java scripting**
 
-- 👯 I’m looking to collaborate on **I’m looking to collaborate on - Manual testing projects, Writing and reviewing test cases, Learning Selenium automation together, Building a beginner-friendly QA project, Open source QA contributions (I’m exploring!)**
+- 👯 I’m looking to collaborate on **Manual testing projects, Writing and reviewing test cases, Learning Selenium automation together, Building a beginner-friendly QA project, Open source QA contributions (I’m exploring!)**
 
 - 🤝 I’m looking for help with **Understanding how to an automation framework, Real-world examples of test scenarios, Selenium WebDriver project structure**
 
