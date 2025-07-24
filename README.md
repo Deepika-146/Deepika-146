@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Manual Testing Life Cycle (STLC, SDLC, Defect Cycle), Writing simple automation test scripts, OOPs concepts in Java, Functional & Regression Testing Basics, Test case writing strategy**
 
-- 📫 How to reach me **deepikapalanisamy146@gmail.com, https://www.linkedin.com/in/deepika-p-23121733a**
+- 📫 How to reach me **deepikapalanisamy146@gmail.com, https://www.linkedin.com/in/deepika-p-6472b2372**
 
 - ⚡ Fun fact **I’m building my testing skills one scenario at a time — with curiosity, consistency, and code. Every bug I find is a lesson, and every test I write takes me one step closer to mastery.**
 
